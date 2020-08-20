@@ -17,7 +17,7 @@ Must include the following
 
 . Use scss for any styles needed
 
-. Call meijer test api for products "https://meijerdigital.azurewebsites.net/api/interview " 
+. Call meijer test api for products "https://meijerdigital.azurewebsites.net/api/interview" 
 
 . Use proptypes for components
 
